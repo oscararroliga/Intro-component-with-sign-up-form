@@ -10,9 +10,6 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  
-
-
 
 ## Overview
 Un poco de práctica HTML, CSS y validación de campos con JavaScript
