@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/oscararroliga/Intro-component-with-sign-up-form)
-- Live Site URL: [Add live site URL here](https://signup-form-challenge.netlify.app/)
+- Solution URL: [Revisa el código en mi repositorio](https://github.com/oscararroliga/Intro-component-with-sign-up-form)
+- Live Site URL: [Puedes ver el resultado](https://signup-form-challenge.netlify.app/)
 
 ## My process
 
